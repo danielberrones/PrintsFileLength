@@ -5,4 +5,4 @@ Reads the contents of a file in Terminal
   3) You would type: Python3 PrintsFileLength.py foo.py
   4) My script reads the file length
 
-![Blue](https://gph.is/g/4MgeXnW)
+![](https://media.giphy.com/media/iK42nqCsqYR01pHcqv/giphy.gif)
