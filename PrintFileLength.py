@@ -4,6 +4,7 @@
 from sys import argv
 filename = argv[1]
 
+
 def main():
 	f = open(filename,"r")
 	data = f.read()
@@ -15,6 +16,7 @@ def main():
 	print("\n************************************************")
 	print("************* FILE LENGTH: {}".format(length), "*************")
 	print("************************************************")
+
 
 if __name__ == "__main__":
 	main()
