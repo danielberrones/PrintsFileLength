@@ -2,7 +2,7 @@
 ## Created by Daniel Berrones
 
 from sys import argv
-filename = argv[0]
+filename = argv[1]
 
 def main():
 	f = open(filename,"r")
