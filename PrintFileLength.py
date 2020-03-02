@@ -1,4 +1,4 @@
-## Reads the contents of a file in Terminal
+## Displays text file in Terminal 
 ## Created by Daniel Berrones [email: Daniel.A.Berrones@gmail.com]
 
 from sys import argv
